@@ -1,0 +1,2 @@
+1. Recursion
+  1.1 word-segments -> given word dict and a word, find if it is possible to form the word
